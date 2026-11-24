@@ -1,27 +1,35 @@
-# AI Mock Interview 🎤🤖
+# 🎤 AI Mock Interview
 
-An interactive web-based **AI Mock Interview System** designed to help students and job seekers practice interview questions, improve their confidence, and prepare for technical interviews.
+### Practice Interviews. Build Confidence. Prepare for Success.
 
-## 📌 About the Project
+**AI Mock Interview** is a web-based interview preparation platform designed to help students and job seekers practice interview questions, improve their preparation, and build confidence before real interviews.
 
-AI Mock Interview provides an interview practice platform where users can explore interview-related questions and improve their preparation. The project focuses on creating a simple and user-friendly interface for interview practice.
+🌐 **Live Demo:** [https://ai-mock-rho-nine.vercel.app/](https://ai-mock-rho-nine.vercel.app/)
 
-## ✨ Features
+💻 **GitHub Repository:** [Srushti0611/AI-MOCK](https://github.com/Srushti0611/AI-MOCK)
 
-- 🎯 Interview practice interface
-- 💻 Technical interview sections
-- 🧠 Domain-specific interview questions
-- 👤 User login and registration pages
-- 📊 Interview practice and evaluation interface
-- 📱 Responsive website design
-- 📞 Contact and help pages
+---
+
+## 🚀 Features
+
+- **Interview Practice:** A user-friendly interface for practicing interview questions.
+- **Multiple Domains:** Organized interview preparation for different technical domains.
+- **Interactive Interface:** Simple and easy-to-use navigation.
+- **User Authentication Pages:** Login and registration interface.
+- **Service Information:** Dedicated pages explaining the platform.
+- **Help & Contact:** Pages to help users find information and get in touch.
+- **Responsive Design:** Designed to provide a consistent experience across screen sizes.
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+| Technology | Purpose |
+|---|---|
+| HTML5 | Webpage structure |
+| CSS3 | Styling and layout |
+| JavaScript | Interactive functionality |
+| Bootstrap | Responsive design and UI components |
+| PHP / MongoDB / NLTK | Include only if configured and used in the working application |
+
 
 ## 📂 Project Structure
 
@@ -30,57 +38,66 @@ AI-MOCK/
 │
 ├── assets/
 │   ├── css/
-│   ├── img/
 │   ├── js/
-│   └── vendor/
+│   ├── img/
+│   ├── vendor/
+│   └── screenshots/
 │
 ├── index.html
-├── index1.html
-├── index2.html
 ├── interview.html
 ├── login.html
-├── login1.html
 ├── contact.html
 ├── help.html
 ├── service.html
 ├── technical.html
-├── main.js
-├── script.js
-├── script1.js
+│
 └── README.md
 ```
 
-## 🚀 Getting Started
+*Additional HTML files and assets are included in the repository.*
+
+## ⚙️ Getting Started
 
 Follow these steps to run the project locally.
 
-1. Clone the repository:
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/Srushti0611/AI-MOCK.git
 ```
 
-2. Open the project folder:
+**2. Open the project folder**
 
 ```bash
 cd AI-MOCK
 ```
 
-3. Open `index.html` in your browser.
+**3. Run the project**
 
-You can also use the **Live Server** extension in Visual Studio Code.
-
+- Open the project in Visual Studio Code.
+- Install the Live Server extension if needed.
+- Right-click `index.html`.
+- Select **Open with Live Server**.
 
 ## 🎯 Project Objective
 
-The main objective of this project is to provide a platform for students and job seekers to practice interviews and improve their technical interview preparation.
+The main objective of this project is to provide an accessible and user-friendly platform for interview preparation. It focuses on making interview practice easier and helping users improve their confidence and readiness.
+
+## 🌐 Deployment
+
+This project is deployed using **Vercel**.
+
+🔗 [Visit AI Mock Interview](https://ai-mock-rho-nine.vercel.app/)
 
 ## 👩‍💻 Developer
 
-**Srushti Sagare**
+**Srushti Satish Sagare**
 
-- GitHub: [Srushti0611](https://github.com/Srushti0611)
+- GitHub: [@Srushti0611](https://github.com/Srushti0611)
+- LinkedIn: [Connect with me](https://linkedin.com/in/srushti-sagare-6b7441277/)
 
 ---
 
-⭐ If you find this project interesting, consider giving it a star!
+⭐ If you find this project interesting, consider giving the repository a star!
+
+**Thank you for visiting AI Mock Interview!**
