@@ -73,16 +73,20 @@ You can also use the **Live Server** extension in Visual Studio Code.
 
 ## 📸 Screenshots
 
-Add screenshots of your project here to show its interface.
-
-Example:
-
-```markdown
+### Homepage
 ![Homepage](screenshots/homepage.png)
-![Login Page](screenshots/login.png)
-![Interview Page](screenshots/interview.png)
-```
 
+### Interview Page
+![Login Page](screenshots/interview.png)
+
+### Service Page
+![Interview Page](screenshots/service.png)
+
+### contact Page
+![Technical Questions](screenshots/contact.png)
+
+### Help Page
+![Technical Questions](screenshots/help.png)
 ## 🎯 Project Objective
 
 The main objective of this project is to provide a platform for students and job seekers to practice interviews and improve their technical interview preparation.
