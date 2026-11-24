@@ -22,7 +22,6 @@ AI Mock Interview provides an interview practice platform where users can explor
 - CSS3
 - JavaScript
 - Bootstrap
-- PHP (only if included in the working backend)
 
 ## 📂 Project Structure
 
@@ -74,19 +73,19 @@ You can also use the **Live Server** extension in Visual Studio Code.
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](assets/screenshots/homepage.png)
 
 ### Interview Page
-![Login Page](screenshots/interview.png)
+![Interview Page](assets/screenshots/interview.png)
 
 ### Service Page
-![Interview Page](screenshots/service.png)
+![Service Page](assets/screenshots/service.png)
 
-### contact Page
-![Technical Questions](screenshots/contact.png)
+### Contact Page
+![Contact Page](assets/screenshots/contact.png)
 
 ### Help Page
-![Technical Questions](screenshots/help.png)
+![Help Page](assets/screenshots/help.png)
 ## 🎯 Project Objective
 
 The main objective of this project is to provide a platform for students and job seekers to practice interviews and improve their technical interview preparation.
