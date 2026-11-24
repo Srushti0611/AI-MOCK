@@ -70,22 +70,7 @@ cd AI-MOCK
 
 You can also use the **Live Server** extension in Visual Studio Code.
 
-## 📸 Screenshots
 
-### Homepage
-![Homepage](assets/screenshots/homepage.png)
-
-### Interview Page
-![Interview Page](assets/screenshots/interview.png)
-
-### Service Page
-![Service Page](assets/screenshots/service.png)
-
-### Contact Page
-![Contact Page](assets/screenshots/contact.png)
-
-### Help Page
-![Help Page](assets/screenshots/help.png)
 ## 🎯 Project Objective
 
 The main objective of this project is to provide a platform for students and job seekers to practice interviews and improve their technical interview preparation.
